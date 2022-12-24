@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/aevernet/.github",
     "scripts": {
-        "release": "bash scripts/bump.sh",
+        "release": "bash scripts/bump.sh"
     }
 }
