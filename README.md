@@ -1,19 +1,17 @@
 <h1 align="center">
+<img src="https://raw.githubusercontent.com/aevernet/.github/master/images/banner/Aever-SW-D-800.png" alt="Aevernet">
 
-<img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/images/logo/banner/RedEyed-SW-D-800.png" alt="Ragdata - the Red-Eyed Rogue" />
+Aevernet's Project Templates
 
-Ragdata's Project Starter Template
-
-v0.1.1
 </h1>
 
 <h3 align="center">
 
-<a href="https://github.com/Ragdata/.github/issues">Open An Issue</a>
+<a href="https://github.com/aevernet/.github/issues">Open An Issue</a>
 &nbsp;🔹&nbsp;
-<a href="https://github.com/Ragdata/.github/tree/cc1dc1f8ca5888688c1060732e9eedd8784cd372/generate">Use This Template</a>
+<a href="https://github.com/Ragdata/.github/generate">Use This Template</a>
 &nbsp;🔹&nbsp;
-<a href="https://github.com/Ragdata/.github/discussions">Discussions</a>
+<a href="https://github.com/aevernet/.github/discussions">Discussions</a>
 </h3>
 
 <p align="center">
