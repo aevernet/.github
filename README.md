@@ -9,7 +9,7 @@ Aevernet's Project Templates
 
 <a href="https://github.com/aevernet/.github/issues">Open An Issue</a>
 &nbsp;🔹&nbsp;
-<a href="https://github.com/Ragdata/.github/generate">Use This Template</a>
+<a href="https://github.com/Ragdata/.github/generate">Template v0.1.1</a>
 &nbsp;🔹&nbsp;
 <a href="https://github.com/aevernet/.github/discussions">Discussions</a>
 </h3>
