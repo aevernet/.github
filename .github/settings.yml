@@ -89,23 +89,23 @@ labels:
 
     - name: 'Priority: Critical ++'
       color: B60205
-      description: ++
+      description: '++'
 
     - name: 'Priority: High +'
       color: D93F0B
-      description: +
+      description: '+'
 
     - name: 'Priority: Medium ='
       color: FBCA04
-      description: =
+      description: '='
 
     - name: 'Priority: Low -'
       color: "#0E8A16"
-      description: -
+      description: '-'
 
     - name: 'Priority: None --'
       color: c5def5
-      description: --
+      description: '--'
 
     - name: 'Status: Triage'
       color: 5319E7
@@ -163,26 +163,20 @@ labels:
       color: "#0E8A16"
       description: (DONE)
 
+collaborators:
+
+    - username: Ragdata
+      permission: admin
+
 branches:
 
     - name: master
       protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 1
-              dismiss_stale_reviews: true
-              require_code_owner_reviews: true
-              dismissal_restrictions:
-                  users: []
-                  teams: []
-          required_status_checks:
-              strict: true
-              contexts: []
+          required_pull_request_reviews: null
+          required_status_checks: null
           enforce_admins: true
           required_linear_history: true
-          restrictions:
-              apps: []
-              users: []
-              teams: []
+          restrictions: null
 
 # Collaborators: give specific users access to this repository.
 #collaborators:
